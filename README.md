@@ -49,4 +49,11 @@ Reeskilling course of Java Backend Development with SpringBoot at It-Academy, Ci
   SpringBoot Advanced
   - Elaborated SpringBoot API REST -> S5.01
   - DiceGame, with JWT security -> S5.02
-  
+
+## 🚀 Used Tecnologies
+
+- **Lenguage**: Java
+- **Framework**: Spring Boot
+- **DataBases**: MySQL, MongoDB
+- **Libraries**: Gson, JUnit, Mockito
+- **Other**: Swagger, JWT
