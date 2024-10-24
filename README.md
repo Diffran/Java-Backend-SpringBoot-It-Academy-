@@ -18,33 +18,34 @@ Reeskilling course of Java Backend Development with SpringBoot at It-Academy, Ci
 
   ---
 
-  ### Sprint 1 🌱
-Java Language
-- Inheritance and polimorphism -> S1.01
-- Exceptions -> S1.02
-- Java Collections -> S1.03
-- Testing  -> S1.04
-- Java Utils -> S1.05
-- Generics -> S1.06
-- Annotations -> S1.07
-- Lambdas  -> S1.08
+## Course Excercises
+ ### Sprint 1 🌱
+  Java Language
+  - Inheritance and polimorphism -> S1.01
+  - Exceptions -> S1.02
+  - Java Collections -> S1.03
+  - Testing  -> S1.04
+  - Java Utils -> S1.05
+  - Generics -> S1.06
+  - Annotations -> S1.07
+  - Lambdas  -> S1.08
 
-  ### Sprint 2 🗃️
+ ### Sprint 2 🗃️
   DataBases
   - MySQL -> S2.01/02
   - MongoDB -> S2.03/04
  
-  ### Sprint 3 🛠️
+### Sprint 3 🛠️
   Patterns
   - Singleton, Abstract Factory, Command -> S3.01
   - Observer, Callback -> S3.02
  
-  ### Sprint 4 🍃
+### Sprint 4 🍃
   SpringBoot Basics
   - Basic SpringBoot with maven and Http protocol -> S4.01
   - Basic SpringBoot connection Databases -> S4.02
  
-  ### Sprint 5 🎲
+ ### Sprint 5 🎲
   SpringBoot Advanced
   - Elaborated SpringBoot API REST -> S5.01
   - DiceGame, with JWT security -> S5.02
